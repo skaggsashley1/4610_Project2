@@ -12,7 +12,7 @@ Group 21482_ 6
 
 [Simran Singh]
 
-[Ashley Skaggs] (https://github.com/skaggsashley1/4610_Project2)
+[Ashley Skaggs](https://github.com/skaggsashley1/4610_Project2)
 
 ## Dataset Information 
 
