@@ -14,9 +14,9 @@ Group 21482_ 6
 
 [Ashley Skaggs]
 
-##Dataset Information 
+## Dataset Information 
 
-We obtained our dataset from the website Kaggle and it contained 6820 movies. The purpose of the dataset is to show movie revenue and analyze the many factors that impact its success. Each movie has the following attributes: <br />
+We obtained our dataset from the website Kaggle and it contained 6820 movies with 15 attributes. The purpose of the dataset is to show movie revenue and analyze the many factors that impact its success. Each movie has the following attributes: <br />
 | Column Name                  | Data Type                 |
 | ---------------------------- | ------------------------- |
 | Budget                       | Decimal                   |
@@ -34,4 +34,14 @@ We obtained our dataset from the website Kaggle and it contained 6820 movies. Th
 | Star                         | String                    |
 | Writer                       | String                    |
 | Year                         | Decimal (changed to Date) |
+
+## Questions
+
+**Question 1**
+
+**Question 2**
+
+## Manipulations to Data
+
+## Analysis and Results
 
