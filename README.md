@@ -55,4 +55,8 @@ Some of the values for the budget attribute were null due to the data not being 
 ## Analysis and Results
 **Q1:** As you can see in our first graphics, we compare the runtime and scores of different genres of films in the 2000’s and 2010’s. As time goes on, the line of regression showcases a positive correlation between total runtime and score in each genre; with action movies having the greatest increase in runtime in both decades, comedies having the lowest increase in runtime in the 2010s, and horror having the lowest increase in runtime in the 2000s. Therefor the graphs that showed the lowest positive correlation are comedies in the 2010s and horror in the 2000s. <br />
 
+<img width="949" alt="Screenshot 2023-04-28 at 4 37 14 PM" src="https://user-images.githubusercontent.com/128408107/235249715-b4556ed9-0464-432a-8d25-ed42cc9a3855.png">
+
 **Q2:** In our second graphics, we use a geographical map to showcase the average net income alongside two bar graphs: one showing the average net income again and the other showing the number of movies produced by the countries with the top 5 average movie industry net income. Using these different graphics we can infer that the net income factor does not necessarily affect the production of more movies, and instead could be more of a cultural variable, because of the United States being an outlying leader of movie production despite not having the greatest average net income. <br />
+
+<img width="1061" alt="Screenshot 2023-04-28 at 4 38 15 PM" src="https://user-images.githubusercontent.com/128408107/235249807-c81bbe16-3b20-4466-aa6b-649f0658bbbb.png">
