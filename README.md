@@ -53,7 +53,7 @@ Some of the values for the budget attribute were null due to the data not being 
 
 
 ## Analysis and Results
-**Q1:** As you can see in our first graphics, we compare the runtime and scores of different genres of films in the 2000’s and 2010’s. As time goes on, the line of regression showcases a positive correlation between total runtime and score in each genre; with action movies having the greatest increase in runtime in both decades, comedies having the lowest increase in runtime in the 2010s, and horror having the lowest increase in runtime in the 2000s. Therefor the graphs that showed the lowest positive correlation are comedies in the 2010s and horror in the 2000s. <br />
+**Q1:** As you can see in our first graphics, we compare the runtime and scores of different genres of films in the 2000’s and 2010’s. As time goes on, the line of regression showcases a positive correlation between total runtime and score in each genre; with action movies having the greatest increase in runtime in both decades, comedies having the lowest increase in runtime in the 2010s, and horror having the lowest increase in runtime in the 2000s. Therefore the graphs that showed the lowest positive correlation are comedies in the 2010s and horror in the 2000s. <br />
 
 <img width="949" alt="Screenshot 2023-04-28 at 4 37 14 PM" src="https://user-images.githubusercontent.com/128408107/235249715-b4556ed9-0464-432a-8d25-ed42cc9a3855.png">
 
