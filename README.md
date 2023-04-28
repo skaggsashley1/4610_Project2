@@ -6,9 +6,9 @@ Group 21482_ 6
 
 [Aaron Fritchley](https://github.com/aafritch/MIST-4610_GP2)
 
-[Mason Layfield](GitHub.com/MasonTLayfield/Tableau-Group-Project-MIST4610)
+[Mason Layfield](https://github.com/MasontLayfield/Tableau-Group-Project-MIST4610)
 
-[Alexandra Shalikashvili]
+[Alexandra Shalikashvili](https://github.com/als94377/4610_project-2)
 
 [Simran Singh](https://github.com/simranhk/MIST4610-Project-2)
 
