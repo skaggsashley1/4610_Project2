@@ -16,7 +16,7 @@ Group 21482_ 6
 
 ## Dataset Information 
 
-The dataset ‘Movie Industry’ was obtained from the website Kaggle and contains 6820 movies with 15 attributes. The creator’s purpose of the dataset was to evaluate if the movie industry is dying out at a time when streaming giants like Netflix have become more popular. The dataset contains information about movies released over a span of four decades. The main content of the dataset includes information related to each movie’s name, budget, company, country, director, genre, gross revenue, rating, release date, runtime, score, votes, star, writer, and year of release. The purpose of the dataset is to show movie revenue and analyze the many factors that impact it. Each movie has the following attributes: <br />
+The dataset ‘Movie Industry’ was obtained from the website [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies) and contains 6820 movies with 15 attributes. The creator’s purpose of the dataset was to evaluate if the movie industry is dying out at a time when streaming giants like Netflix have become more popular. The dataset contains information about movies released over a span of four decades. The main content of the dataset includes information related to each movie’s name, budget, company, country, director, genre, gross revenue, rating, release date, runtime, score, votes, star, writer, and year of release. The purpose of the dataset is to show movie revenue and analyze the many factors that impact it. Each movie has the following attributes: <br />
 | Column Name                  | Data Type                 |
 | ---------------------------- | ------------------------- |
 | Budget                       | Decimal                   |
