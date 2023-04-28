@@ -4,7 +4,7 @@
 
 Group 21482_ 6
 
-[Aaron Fritchley]
+[Aaron Fritchley](https://github.com/aafritch/MIST-4610_GP2)
 
 [Mason Layfield]
 
