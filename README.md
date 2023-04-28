@@ -37,12 +37,12 @@ The dataset ‘Movie Industry’ was obtained from the website Kaggle and contai
 
 ## Questions
 
-**Question 1**
+**Question 1**<br />
 For action comedy and horror movies, what is the correlation between runtime and the movie’s score from 2000 to 2009 compared to 2010 to 2019? <br />
 
 **Question 1 Explanation:** This question is culturally significant in detailing how attention spans have changed over the last decade across different genres. Each movie has a designated run time and also was assigned a score out of 10 from IMDB. This information can be cross-referenced when projecting future optimal runtimes<br />
 
-**Question 2**
+**Question 2**<br />
 How many movies have the countries with the highest average movie industry net income produced from 2010-2020? <br />
 
 **Question 2 Explanation:** This question is economically significant in showing what countries produced the most movies compared to their net income. This could also show which countries have the most net income per movie but produced few movies compared to countries that produced the most movies but also have high net income. We were able to create a calculated field from each movie's budget and gross revenue to build a heat map showing the highest average net income by country. We then used this information to select the top 5 highest net-income nations to construct a bar graph showcasing the number of movies produced by that countries. <br />
